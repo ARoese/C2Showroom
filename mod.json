@@ -4,6 +4,11 @@
   "description": "spawn showroom assets (green screens) of different colors using number keys 7, 8, 9",
   "mod_type": "Shared",
   "authors": [ "DrLong" ],
-  "dependencies": [],
+  "dependencies": [
+      {
+        "repo_url": "https://github.com/Chiv2-Community/ArgonSDK-Mods",
+        "version": ">=0.0.1"
+      }
+    ],
   "tags": [ "Mutator" ]
 }
