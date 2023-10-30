@@ -10,5 +10,7 @@
         "version": ">=0.0.1"
       }
     ],
+  "ag_mod": true,
   "tags": [ "Mutator" ]
+  
 }
